@@ -1,4 +1,4 @@
-# revisions_and_the_cloud
+# Revisions and the Cloud
 GIT Remote &amp; Local - Add, Commit &amp; Push
 
 ## What is GIT?
