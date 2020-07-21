@@ -19,7 +19,7 @@ GIT Remote &amp; Local - Add, Commit &amp; Push
 - Online Storage (Cloud).
 - Able to share code with others (collaboration).
 
-# Files can be classified into three main states: committed, modified and staged:
+## Files can be classified into three main states: committed, modified and staged:
 
 1. Committed - securely saved in local database
 1. Modified - changed but not committed
@@ -35,7 +35,7 @@ GIT Remote &amp; Local - Add, Commit &amp; Push
    - cd codefellows
    - cd 102
 
-## *If directory is unavailable, use command **mkdir** to create it*
+## *If directory is unavailable, use command "mkdir" to create it*
 
 1. git clone "paste repo address"
 1. Open VSC, use command **code .**
