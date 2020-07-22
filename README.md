@@ -8,13 +8,13 @@ GIT Remote &amp; Local - Add, Commit &amp; Push
 - Will always detect file corruption or loss of information in transit.
 - Allows for collaboration with multiple developers
 
-#Commit
+## Commit
 
 - "save as", creates a new snapshot on file timeline.
 - Each time you save a changed version of your project.
 - Create a notation of what was changed.
 
-#GitHub
+## GitHub
 
 - Online Storage (Cloud).
 - Able to share code with others (collaboration).
